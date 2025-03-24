@@ -3,11 +3,11 @@
 OPEA安装包的目录结构如下：    
 opea-installer /    
 ├── doc/  
-│   └── details.md      
-├── images/    
-│   ├── upload_icon.jpg        
-│   ├── upload.png    
-│   └── query.png    
+│   ├── details.md       
+│   └── images/    
+│       ├── upload_icon.jpg        
+│       ├── upload.png    
+│       └── query.png    
 ├── README.md    
 ├── compose.yaml    
 ├── nke-10k-2023.pdf    
