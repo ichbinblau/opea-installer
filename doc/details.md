@@ -84,7 +84,7 @@ export APT_MIRROR=https://mirrors.tuna.tsinghua.edu.cn/ubuntu/
 ### 验证微服务
 #### TEI Embedding服务
 ``` bash
-curl ${host_ip}:8090/embed \
+curl ${host_ip}:6006/embed \
     -X POST \
     -d '{"inputs":"What is Deep Learning?"}' \
     -H 'Content-Type: application/json'
